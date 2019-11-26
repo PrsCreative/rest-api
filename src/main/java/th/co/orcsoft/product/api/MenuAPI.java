@@ -1,4 +1,4 @@
-package th.co.orcsoft.menu.api;
+package th.co.orcsoft.product.api;
 
 import java.math.BigDecimal;
 
