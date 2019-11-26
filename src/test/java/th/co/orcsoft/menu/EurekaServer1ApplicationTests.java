@@ -1,10 +1,10 @@
-package com.example.demo;
+package th.co.orcsoft.menu;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class EurekaServer1ApplicationTests {
 
 	@Test
 	void contextLoads() {
